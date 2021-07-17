@@ -1,0 +1,2 @@
+rootProject.name = "VBook App"
+include ':app'
